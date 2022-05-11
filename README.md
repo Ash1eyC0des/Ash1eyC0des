@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/ash1eyc0des" target="blank"><img src="https://img.shields.io/twitter/follow/ash1eyc0des?logo=twitter&style=for-the-badge" alt="ash1eyc0des" /></a> </p>
 
+<p align="left"> <a href="https://www.codewars.com/users/Ash1eyC0des" target="blank"><img src="https://www.codewars.com/users/Ash1eyC0des/badges/large" alt="ash1eyc0des" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [ashleychristman.com](ashleychristman.com)
 
 - 📫 How to reach me **dev@ashleychristman.com**
