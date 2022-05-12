@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://www.codewars.com/users/Ash1eyC0des" target="blank"><img src="https://www.codewars.com/users/Ash1eyC0des/badges/large" alt="ash1eyc0des" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [ashleychristman.com](ashleychristman.com)
+- 👨‍💻 All of my projects are available at [ashleychristman.com](https://ashleychristman.com)
 
 - 📫 How to reach me **dev@ashleychristman.com**
 
