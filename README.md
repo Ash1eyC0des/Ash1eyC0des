@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/ash1eyc0des" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash1eyc0des" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashley-christman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashley-christman" height="30" width="40" /></a>
+  </br></br>
 <a href="https://www.codewars.com/users/Ash1eyC0des" target="blank"><img src="https://www.codewars.com/users/Ash1eyC0des/badges/large" alt="ash1eyc0des" /></a>
 </p>
 
