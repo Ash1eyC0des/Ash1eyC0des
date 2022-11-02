@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashley</h1>
-<h3 align="center">A passionate full-stack developer from Pennsylvania</h3>
+<h1>Hi 👋, I'm Ashley</h1>
+<h3>A passionate full-stack developer from Pennsylvania</h3>
 
 - 👨‍💻 All of my projects are available at [ashleychristman.com](https://ashleychristman.com)
 
