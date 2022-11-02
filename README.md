@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Ashley</h1>
 <h3>A passionate full-stack developer from Pennsylvania, USA</h3>
 
-- 👨‍💻 All of my projects are available at [ashleychristman.com](https://ashleychristman.com)
+- 👨‍💻 All of my recent projects are available at [ashleychristman.com](https://ashleychristman.com)
 
 - 📫 Email: **dev@ashleychristman.com**
 
